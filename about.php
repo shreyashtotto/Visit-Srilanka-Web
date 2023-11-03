@@ -139,7 +139,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/me.jpg" alt="User" class="mb-4 shadow">
+							<img src="./images/me.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Damitha Jayatharaka</h3>
@@ -148,13 +148,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="mailto:hellodamitha@gmail.com" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="./images/email.png" alt="Email">
 							</a>
 							<a href="https://github.com/djayatharaka" target="_blank" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="./images/github.png" alt="Github">
 							</a>
 							<a href="https://lk.linkedin.com/in/damithajayatharaka" target="_blank" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="./images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -163,7 +163,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/binath.jpg" alt="User" class="mb-4 shadow">
+							<img src="./images/binath.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Binath Laknaka</h3>
@@ -172,13 +172,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="./images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="./images/github.png" alt="Github">
 							</a>
 							<a href="https://www.linkedin.com/in/binath-laknaka-kalansooriya-0b8247244/" target="_blank" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="./images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -186,7 +186,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/ishadi.jpg" alt="User" class="mb-4 shadow">
+							<img src="./images/ishadi.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Ishadi Gayathma</h3>
@@ -195,13 +195,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="mailto:igayathma2001@gmail.com" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="./images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="./images/github.png" alt="Github">
 							</a>
 							<a href="https://www.linkedin.com/in/ishadi-gayathma-809732258/" target="_blank" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="./images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -209,7 +209,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/kavishka.jpg" alt="User" class="mb-4 shadow">
+							<img src="./images/kavishka.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Kavishka Kavindi</h3>
@@ -218,13 +218,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="mailto:kavindiperera816@gmail.com" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="./images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="./images/github.png" alt="Github">
 							</a>
 							<a href="https://www.linkedin.com/in/kavishka-kavindi-perera-64163725b/" target="_blank" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="./images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -232,7 +232,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/nipuni.jpg" alt="User" class="mb-4 shadow">
+							<img src="./images/nipuni.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Nipuni Himasha</h3>
@@ -241,13 +241,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="mailto:nipuniimasha5@gmail.com" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="./images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="./images/github.png" alt="Github">
 							</a>
 							<a href="https://www.linkedin.com/in/nipuni-jayawardane-49263625b/" target="_blank" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="./images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -255,7 +255,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/sandali.jpg" alt="User" class="mb-4 shadow">
+							<img src="./images/sandali.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Sandali Geenadi</h3>
@@ -264,13 +264,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="mailto:absgsadewmini@gmail.com" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="./images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="./images/github.png" alt="Github">
 							</a>
 							<a href="https://www.linkedin.com/in/sandali-geenadi-85962325b/" target="_blank" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="./images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
